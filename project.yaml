@@ -54,5 +54,5 @@ advanced:
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
-proxy: false
+proxy: true
 type: single-site
