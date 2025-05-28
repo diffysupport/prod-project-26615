@@ -35,7 +35,7 @@ advanced:
     custom_css: ''
     mock_content:
         - { selector: '', type: title }
-    sensitivity: 5
+    sensitivity: 30
     night_mode: false
     retina_images: false
     login:
