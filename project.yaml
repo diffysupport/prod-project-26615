@@ -2,7 +2,7 @@ basic:
     name: Alvero.nl
     environments:
         production: 'https://www.alvero.nl'
-        staging: 'https://alvero.opendev.be'
+        staging: 'https://www.alvero.opendev.be/nl'
         development: ''
     breakpoints:
         - 480
